@@ -9,7 +9,7 @@ def intro_screen(picked):
     os.system('clear')
     stdout.write( "Welcome to Escape!\n" )
     stdout.write( "To read the instructions, press 'i'.\n")
-    stdout.write( "To pick a scenario, press 'c'.\n")
+    stdout.write( "To pick a scenario press 'c'.\n")
     if picked:
 	stdout.write("To begin the game press, 's'.\n")
     while (not valid):
