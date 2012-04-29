@@ -2,7 +2,6 @@
 
 import getpass, fileinput, os
 from sys import stdin, stdout, stderr, exit
-this is a test faggot
 
 
 def intro_screen(picked):
