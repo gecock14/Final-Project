@@ -1,0 +1,5 @@
+This module is inteded to initialize the opening screen the game. The user will
+greated and offered two button choices. 'i' will lead them to the instructions 
+panel, and 's' will begin the game. If the user decides to begin the game, then
+they are prompted to choose a story line. Each story line will be stored in a 
+different file.
